@@ -1,0 +1,6 @@
+<resources>
+    <!-- Теперь имя темы соответствует тому, что указано в AndroidManifest.xml -->
+    <style name="Theme.EmployeeDB" parent="Theme.AppCompat.Light.DarkActionBar">
+        <!-- Настройки темы -->
+    </style>
+</resources>
